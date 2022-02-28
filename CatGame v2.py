@@ -1,4 +1,3 @@
-#Code và ảnh đặt trong phần mô tả, các bạn có thể tải về
 import pygame,sys
 from pygame.locals import *
 pygame.init()
